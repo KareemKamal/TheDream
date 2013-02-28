@@ -1,0 +1,1 @@
+everyone can add lines to this text file and commit it then synch it  to see the changes
